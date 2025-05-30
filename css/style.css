@@ -444,7 +444,7 @@
 
     /* ===================media quarry ================== */
 
-    @media (max-width:335px) {
+    @media (max-width: 600px) {
 
         body {
             overflow-x: hidden;
